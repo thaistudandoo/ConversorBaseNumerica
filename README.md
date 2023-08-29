@@ -1,4 +1,4 @@
-# ConversorBaseNumerica
+# Conversor de Bases Numéricas
 Projeto de um conversor de base numérica para estudo de uso da biblioteca gradio
 
 O usuário digita um número e seleciona a base numerica que ele está e então a conversão acontece. 
